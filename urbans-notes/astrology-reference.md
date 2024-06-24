@@ -9,30 +9,30 @@ coverY: 0
 
 ## Modalities & Elemental Attributions
 
-| Sign           | Modality                                 | Elemental |
-| -------------- | ---------------------------------------- | --------- |
-| ♈︎ Aries       | <mark style="color:red;">Cardinal</mark> | 🜂 Fire   |
-| ♉︎ Taurus      | <mark style="color:green;">Fixed</mark>  | 🜃 Earth  |
-| ♊︎ Gemini      | <mark style="color:blue;">Mutable</mark> | 🜁 Air    |
-| ♋︎ Cancer      | <mark style="color:red;">Cardinal</mark> | 🜄 Water  |
-| ♌︎ Leo         | <mark style="color:green;">Fixed</mark>  | 🜂 Fire   |
-| ♍︎ Virgo       | <mark style="color:blue;">Mutable</mark> | 🜃 Earth  |
-| ♎︎ Libra       | <mark style="color:red;">Cardinal</mark> | 🜁 Air    |
-| ♏︎ Scorpio     | <mark style="color:green;">Fixed</mark>  | 🜄 Water  |
-| ♐︎ Sagittarius | <mark style="color:blue;">Mutable</mark> | 🜂 Fire   |
-| ♑︎ Capricorn   | <mark style="color:red;">Cardinal</mark> | 🜃 Earth  |
-| ♒︎ Aquarius    | <mark style="color:green;">Fixed</mark>  | 🜁 Air    |
-| ♓︎ Pisces      | <mark style="color:blue;">Mutable</mark> | 🜄 Water  |
+| Sign           | Modality                                   | Elemental                                  |
+| -------------- | ------------------------------------------ | ------------------------------------------ |
+| ♈︎ Aries       | <mark style="color:red;">Cardinal</mark>   | 🜂 <mark style="color:orange;">Fire</mark> |
+| ♉︎ Taurus      | <mark style="color:green;">Fixed</mark>    | 🜃 <mark style="color:green;">Earth</mark> |
+| ♊︎ Gemini      | <mark style="color:purple;">Mutable</mark> | 🜁 <mark style="color:yellow;">Air</mark>  |
+| ♋︎ Cancer      | <mark style="color:red;">Cardinal</mark>   | 🜄 <mark style="color:blue;">Water</mark>  |
+| ♌︎ Leo         | <mark style="color:green;">Fixed</mark>    | 🜂 <mark style="color:red;">Fire</mark>    |
+| ♍︎ Virgo       | <mark style="color:purple;">Mutable</mark> | 🜃 <mark style="color:green;">Earth</mark> |
+| ♎︎ Libra       | <mark style="color:red;">Cardinal</mark>   | 🜁 <mark style="color:yellow;">Air</mark>  |
+| ♏︎ Scorpio     | <mark style="color:green;">Fixed</mark>    | 🜄 <mark style="color:blue;">Water</mark>  |
+| ♐︎ Sagittarius | <mark style="color:purple;">Mutable</mark> | 🜂 <mark style="color:red;">Fire</mark>    |
+| ♑︎ Capricorn   | <mark style="color:red;">Cardinal</mark>   | 🜃 <mark style="color:green;">Earth</mark> |
+| ♒︎ Aquarius    | <mark style="color:green;">Fixed</mark>    | 🜁 <mark style="color:yellow;">Air</mark>  |
+| ♓︎ Pisces      | <mark style="color:purple;">Mutable</mark> | 🜄 <mark style="color:blue;">Water</mark>  |
 
-### Cardinal Modality
+### <mark style="color:red;">Cardinal</mark> Modality
 
 Cardinal Modality like to begin new projects but lack the staying power to bring ideas to fruition
 
-### Fixed Modality
+### <mark style="color:green;">Fixed</mark> Modality
 
 Fix in place that which was started by the Cardinal Modality Signs
 
-### Mutable Modality
+### <mark style="color:purple;">Mutable</mark> Modality
 
 Very flexible, changeable and versatile. "Shiny object syndrome"
 
