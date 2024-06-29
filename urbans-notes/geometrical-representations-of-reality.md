@@ -63,3 +63,54 @@ coverY: 0
 
 <figure><img src="../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
 
+***
+
+## Reference Tables
+
+### Table of Triangle
+
+<figure><img src="../.gitbook/assets/image (165).png" alt=""><figcaption></figcaption></figure>
+
+### Table of Square
+
+<figure><img src="../.gitbook/assets/image (166).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (167).png" alt=""><figcaption></figcaption></figure>
+
+### Table of Pentagram
+
+<figure><img src="../.gitbook/assets/image (168).png" alt=""><figcaption></figcaption></figure>
+
+### Table of Hexagram
+
+<figure><img src="../.gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (170).png" alt=""><figcaption></figcaption></figure>
+
+### Table of Heptagram
+
+<figure><img src="../.gitbook/assets/image (171).png" alt=""><figcaption></figcaption></figure>
+
+### Table of Octagram
+
+<figure><img src="../.gitbook/assets/image (172).png" alt=""><figcaption></figcaption></figure>
+
+### Table of Nonagram
+
+<figure><img src="../.gitbook/assets/image (173).png" alt=""><figcaption></figcaption></figure>
+
+### Table of Decagram
+
+<figure><img src="../.gitbook/assets/image (174).png" alt=""><figcaption></figcaption></figure>
+
+### Table of Hendecagram
+
+<figure><img src="../.gitbook/assets/image (175).png" alt=""><figcaption></figcaption></figure>
+
+### Table of Dodecagram
+
+<figure><img src="../.gitbook/assets/image (176).png" alt=""><figcaption></figcaption></figure>
+
+### Tetragrammaton Permutations
+
+<figure><img src="../.gitbook/assets/image (177).png" alt=""><figcaption></figcaption></figure>
