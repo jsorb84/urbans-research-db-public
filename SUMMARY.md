@@ -7,6 +7,7 @@
 
 * [🧠 The Great Manifestation](urbans-notes/the-great-manifestation.md)
 * [🌏 Astrology Reference](urbans-notes/astrology-reference.md)
+* [🔳 Geometrical Representations of Reality](urbans-notes/geometrical-representations-of-reality.md)
 
 ## 🔺 Hermetics & Magical Training
 
