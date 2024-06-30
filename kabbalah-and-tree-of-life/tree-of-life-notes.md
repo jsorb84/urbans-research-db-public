@@ -47,7 +47,7 @@ coverY: 0
 2. **💦** <mark style="color:blue;">🜄</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Mem (**</mark><mark style="color:blue;">מ</mark><mark style="color:blue;">**)**</mark> – “the two great lights . . . and the stars.” 1:16
 3. **🔥**<mark style="color:red;">🜂</mark> <mark style="color:red;">**Shin (**</mark><mark style="color:red;">שׁ</mark><mark style="color:red;">**)**</mark> – “the beast of the earth after its kind . . .” 1:25
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Doubles (Planets)
 
@@ -61,7 +61,7 @@ coverY: 0
 6. <mark style="color:orange;">**Resh (**</mark><mark style="color:orange;">ר, Sun ☉)</mark> – “that it was good” (the beasts of the earth) 1:25
 7. <mark style="color:blue;">**Tav (**</mark><mark style="color:blue;">ת, Saturn ♄)</mark> – “every thing that He had made, and, behold, it was very good.” 1:31
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Elementals (Zodiac)
 
@@ -80,7 +80,7 @@ coverY: 0
 11. **Tzaddi** (צ, Aquarius ♒︎),  – “blessed them \[male and female].” 1:28
 12. **Qooph** (ק, Pisces ♓︎) – “said: I have given you all . . .” 1:29\*
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Full Paths Table
 
