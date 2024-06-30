@@ -727,7 +727,7 @@ In Tarot, Wands represent fire, the element of raw energy and passion. The Princ
 * A message or information
 * A young woman with fiery energy (fire-colored hair, blue eyes)
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
 
 </details>
 
@@ -777,7 +777,7 @@ The Prince of Wands is a combination of these two elements. He has the fire to t
 * A young man with light hair and blue or gray eyes (fire+air coloring)
 * Can also represent boasting or impulsiveness
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 </details>
 
