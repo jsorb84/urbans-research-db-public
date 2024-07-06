@@ -7,6 +7,12 @@ coverY: 0
 
 # 🌏 Astrology Reference
 
+## Reference Book PDF
+
+_The Only Way to Learn Astrology: Volume I_
+
+{% file src="../.gitbook/assets/March, Marion D - The Only Way to Learn Astrology.pdf" %}
+
 ## Modalities & Elemental Attributions
 
 | Sign           | Modality                                   | Elemental                                  |
@@ -92,6 +98,52 @@ A decan is a subdivision of 10 degrees of an Astrological sign. 36 Sections.
 | 45° - Semisquare ∠         | Block                    | Similar to a square, inflexibility                                 |
 | 135° - Sesquisquare ⦞      | Not Divisible by 360     | Tension and challenge, needing control                             |
 | 30° - Semisextile ⦡        | Mixed                    | Helpful for one's soul's evolutionary growth                       |
+
+### Table of Aspects
+
+<figure><img src="../.gitbook/assets/image (179).png" alt=""><figcaption></figcaption></figure>
+
+### Conjunction
+
+<figure><img src="../.gitbook/assets/image (180).png" alt=""><figcaption></figcaption></figure>
+
+### Square
+
+<figure><img src="../.gitbook/assets/image (181).png" alt=""><figcaption></figcaption></figure>
+
+### Opposition
+
+<figure><img src="../.gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure>
+
+### Trine
+
+<figure><img src="../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
+
+### Inconjunct
+
+<figure><img src="../.gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure>
+
+### Sextile
+
+<figure><img src="../.gitbook/assets/image (185).png" alt=""><figcaption></figcaption></figure>
+
+### Trines
+
+<figure><img src="../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
+
+### Squares & Oppositions
+
+<figure><img src="../.gitbook/assets/image (187).png" alt=""><figcaption></figcaption></figure>
+
+### Sextiles
+
+<figure><img src="../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
+
+### Inconjuncts
+
+<figure><img src="../.gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure>
 
 ### Aspects Reference Table
 
