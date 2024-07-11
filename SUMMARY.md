@@ -9,6 +9,7 @@
 * [🌏 Astrology Reference](urbans-notes/astrology-reference.md)
 * [🔳 Geometrical Representations of Reality](urbans-notes/geometrical-representations-of-reality.md)
 * [✝️ Tetragrammaton](urbans-notes/tetragrammaton.md)
+* [📊 Conspiracy Charts](urbans-notes/conspiracy-charts.md)
 
 ## 🔺 Hermetics & Magical Training
 
