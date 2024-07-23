@@ -40,6 +40,7 @@
 
 ## 🔢 Numerology
 
+* [🔢 Pythagorean Number Symbolism](numerology/pythagorean-number-symbolism.md)
 * [🔢 Numerological Reference](numerology/numerological-reference.md)
 * [📑 Primary No. Reference](numerology/primary-no.-reference.md)
 * [📖 Pinnacle No. Reference](numerology/pinnacle-no.-reference.md)
