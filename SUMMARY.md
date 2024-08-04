@@ -5,8 +5,7 @@
 
 ## 🗒️ Urban's Notes
 
-* [Urban's Notes](https://mega.nz/folder/h7MBACzC#t58bSZZ09bdrRTbVlaTg9w)
-* [fff](https://mega.nz/folder/h7MBACzC#t58bSZZ09bdrRTbVlaTg9w)
+* [📂 Urban's Notes Folder](https://mega.nz/folder/h7MBACzC#t58bSZZ09bdrRTbVlaTg9w)
 
 ## 📚 Free Resources
 

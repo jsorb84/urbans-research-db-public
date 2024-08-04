@@ -1,5 +1,6 @@
 ---
-cover: .gitbook/assets/1500x500.jpeg
+description: Welcome to Urban's Research Database
+cover: .gitbook/assets/UrbansLibrary2.png
 coverY: 0
 layout:
   cover:
@@ -36,6 +37,10 @@ Tons of AudioBooks, lectures, and classic interviews
 {% endembed %}
 
 {% embed url="https://embed.podcasts.apple.com/us/podcast/urban-odyssey/id1743846524?itscg=30200&itsct=podcast_box_player&ls=1&theme=dark" %}
+
+## Bio.Link
+
+{% embed url="https://bio.link/officialurban" %}
 
 ## Get in Touch
 
