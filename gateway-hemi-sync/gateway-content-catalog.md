@@ -14,7 +14,7 @@ It is highly recommended that you start from the BEGINNING, in the Google Drive,
 
 ***
 
-## [The Original 39 Gateway Process Tapes](https://drive.google.com/drive/folders/1\_3fqyxGRxMfhTqi2NayXGfllcPFBTJ2A?usp=drive\_link)
+## [The Original 39 Gateway Process Tapes](https://drive.google.com/drive/folders/1_3fqyxGRxMfhTqi2NayXGfllcPFBTJ2A?usp=drive_link)
 
 <figure><img src="../.gitbook/assets/il_1588xN.3066423059_gp8y-857779570.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -26,7 +26,7 @@ It is highly recommended that you start from the BEGINNING, in the Google Drive,
 Courtesy of my good friend, Cannaman33 ([@HamHam361791](https://x.com/HamHam361791))
 {% endhint %}
 
-### [BioEnergyCode](https://drive.google.com/drive/folders/1vOJS18YdumHHdU5NABJDrUsARRnUT8rJ?usp=drive\_link)
+### [BioEnergyCode](https://drive.google.com/drive/folders/1vOJS18YdumHHdU5NABJDrUsARRnUT8rJ?usp=drive_link)
 
 <figure><img src="../.gitbook/assets/image (90).png" alt=""><figcaption><p>BioEnergyCode.com</p></figcaption></figure>
 
@@ -51,7 +51,7 @@ Courtesy of my good friend, Cannaman33 ([@HamHam361791](https://x.com/HamHam3617
 
 ***
 
-### [Gateway Manuals](https://drive.google.com/drive/folders/1z46DTyKcjmjLsn0AwJDnAe2dMWff--l7?usp=drive\_link)
+### [Gateway Manuals](https://drive.google.com/drive/folders/1z46DTyKcjmjLsn0AwJDnAe2dMWff--l7?usp=drive_link)
 
 #### Contents
 
@@ -67,7 +67,7 @@ Courtesy of my good friend, Cannaman33 ([@HamHam361791](https://x.com/HamHam3617
 10. `Wave I - Discovery.pdf`
 11. `Journey of Robert Monroe.pdf`
 
-### [Solfeggio Frequencies](https://drive.google.com/drive/folders/1P-LpWtS8TZ1SwnGMKxyE79f8UqBA4tdI?usp=drive\_link)
+### [Solfeggio Frequencies](https://drive.google.com/drive/folders/1P-LpWtS8TZ1SwnGMKxyE79f8UqBA4tdI?usp=drive_link)
 
 #### Contents
 
@@ -83,7 +83,7 @@ Courtesy of my good friend, Cannaman33 ([@HamHam361791](https://x.com/HamHam3617
 
 ***
 
-### [SyncCreation](https://app.gitbook.com/s/uT4h7e9r9o0sZ7MNj2Fj/)
+### [SyncCreation](broken-reference)
 
 <figure><img src="../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
 
@@ -110,7 +110,7 @@ Courtesy of my good friend, Cannaman33 ([@HamHam361791](https://x.com/HamHam3617
 
 ***
 
-### [A Unicorn Named Georgia - Bedtime Story](https://drive.google.com/file/d/18Xz5EXJ8\_7zoAuIyawk0P93SPyAGPln7/view?usp=drive\_link)
+### [A Unicorn Named Georgia - Bedtime Story](https://drive.google.com/file/d/18Xz5EXJ8_7zoAuIyawk0P93SPyAGPln7/view?usp=drive_link)
 
 <figure><img src="../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
 

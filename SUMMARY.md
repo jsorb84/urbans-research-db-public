@@ -7,6 +7,10 @@
 
 * [📂 Urban's Notes Folder](https://mega.nz/folder/h7MBACzC#t58bSZZ09bdrRTbVlaTg9w)
 
+## Bill Cooper Archives
+
+* [Hour of the Time Archives](bill-cooper-archives/hour-of-the-time-archives.md)
+
 ## 📚 Free Resources
 
 * [📖 The Ancient Book of Enoch](free-resources/the-ancient-book-of-enoch.md)
@@ -18,7 +22,7 @@
 ## 💤 Gateway / Hemi-Sync
 
 * [📓 Gateway Content Catalog](gateway-hemi-sync/gateway-content-catalog.md)
-* [💾 Full Gateway Process Drive](https://drive.google.com/drive/folders/1\_3fqyxGRxMfhTqi2NayXGfllcPFBTJ2A?usp=drive\_link)
+* [💾 Full Gateway Process Drive](https://drive.google.com/drive/folders/1_3fqyxGRxMfhTqi2NayXGfllcPFBTJ2A?usp=drive_link)
 
 ## 🤖 Artificial Intelligence
 
