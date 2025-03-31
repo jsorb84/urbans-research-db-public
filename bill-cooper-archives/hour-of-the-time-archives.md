@@ -32,6 +32,10 @@ coverY: 181
 
 {% embed url="https://open.spotify.com/playlist/6jyTjkvCgcOpR6t629OTSj?si=0194c32beb2c47b7" %}
 
+## 9/11 Full 10-Hour Long Broadcast
+
+{% embed url="https://open.spotify.com/playlist/4KfUA3MaPLjUw7HVwmbPQn?si=d88fedfb3ee74b05" %}
+
 ## Mind Control Series
 
 {% embed url="https://open.spotify.com/playlist/0HFyyZBJXeltbpYbkdQOaZ?si=68ec56d888ea4d98" %}
